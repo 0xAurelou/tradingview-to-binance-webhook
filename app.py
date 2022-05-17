@@ -13,8 +13,6 @@ config_logging(logging, logging.DEBUG)
 
 
 proxies = {
-"http": "http://wmno21chfaf6yl:nr5xfafkybz11d8ddy98xa4nh3drp@us-east-static-08.quotaguard.com:9293",
-"https": "http://wmno21chfaf6yl:nr5xfafkybz11d8ddy98xa4nh3drp@us-east-static-08.quotaguard.com:9293",
 }
 
 API_KEY = os.environ['API_KEY']
