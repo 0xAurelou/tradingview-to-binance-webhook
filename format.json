@@ -1,0 +1,7 @@
+{
+    "passphrase": "abc123",
+    "time": "{{timenow}}",
+    "ticker": "BTCBUSD",
+    "price": {{strategy.order.price}},
+    "order_action": "{{strategy.order.action}}"
+}
